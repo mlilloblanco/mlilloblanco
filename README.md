@@ -1,4 +1,9 @@
-![Charizard](https://github.com/mlilloblanco/mlilloblanco/blob/master/charizard.jpg =250x250)
+<img src="https://github.com/mlilloblanco/mlilloblanco/blob/master/charizard.jpg" height="300" width="600" />
+
+
+
+
+
 
 ### Hi there 👋
 - 🌱 I’m currently learning Java
