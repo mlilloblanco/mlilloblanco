@@ -1,4 +1,4 @@
-<img src="https://github.com/mlilloblanco/mlilloblanco/blob/master/charizard.jpg" height="300" width="600" />
+<img src="https://github.com/mlilloblanco/mlilloblanco/blob/master/charizard_banner_by_metaselene_d6oxn2f-fullview.jpg"/>
 
 
 
