@@ -1,3 +1,5 @@
+![Charizard 4]()
+
 ### Hi there 👋
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I'm a pokemon master
