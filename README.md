@@ -1,10 +1,3 @@
-<img src="https://github.com/mlilloblanco/mlilloblanco/blob/master/charizard_banner_by_metaselene_d6oxn2f-fullview.jpg"/>
-
-
-
-
-
-
 ### Hi there 👋
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I'm a pokemon master
