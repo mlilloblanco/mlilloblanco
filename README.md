@@ -1,26 +1,41 @@
-### Hi there 👋
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: I'm a pokemon master
+<!-- visits and followers -->
+<p align="center">
+<img src="https://gpvc.arturio.dev/mlilloblanco"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmlilloblanco&longCache=true">
+</p>
 
-## [Saludame!](https://twitter.com/intent/tweet?text=Hi%20%40mlilloblanco%20%F0%9F%91%8B.%20I%20am%20saying%20hi%20from%20your%20Github%20profile!%20(https%3A%2F%2Fgithub.com%2Fmlilloblanco)%0A%0A)
+<!-- spotify -->
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=mlilloblanco&cover_image=true"/>
+</p>
 
-![mlilloblanco's github stats](https://github-readme-stats.vercel.app/api?username=mlilloblanco&hide=["issues"]&show_icons=true)
+<!-- status codes -->
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mlilloblanco&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlilloblanco&layout=compact&theme=tokyonight" alt="languages" height="165">
+ </p>
+    
+<!-- programming langs-->
+<p align="center">
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+</p>
 
 
-[![HitCount](http://hits.dwyl.com/mlilloblanco/mlilloblanco.svg)](http://hits.dwyl.com/mlilloblanco/mlilloblanco)
-
-
-<!--
-**mlilloblanco/mlilloblanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- websites and link -->
+<p align="center">
+<a href="https://www.linkedin.com/in/manuel-lillo-blanco/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mlilloblanco" height="20" width="20" />
+</a>
+<a href="https://twitter.com/mlilloblanco" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mlilloblanco" height="20" width="20" />
+</a>
+<a href="https://github.com/mlilloblanco" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="mlilloblanco" height="20" width="20" />
+</a>
+<a href="https://t.me/mlilloblanco" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="mlilloblanco" height="20" width="20" />
+</a>
+<a href="https://open.spotify.com/user/mlilloblanco?si=1zfWym4GR9GJAesn1Jdvug" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="mlilloblanco" height="20" width="20" />
+</a>
+</p>
