@@ -15,9 +15,11 @@
     
 <!-- programming langs-->
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+<svg viewBox="0 0 128 128">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="25px" height="25px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25px" height="25px"/>
 </p>
 
 
